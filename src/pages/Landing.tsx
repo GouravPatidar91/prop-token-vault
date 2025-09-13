@@ -15,7 +15,7 @@ export default function Landing() {
           </Badge>
           
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
-            Invest in Real Estate
+            Invest in Rawaara Group
             <br />
             with Tokens
           </h1>
