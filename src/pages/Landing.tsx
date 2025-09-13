@@ -14,7 +14,7 @@ export default function Landing() {
             🏢 Real Estate Investment Platform
           </Badge>
           
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-foreground mb-6 bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
+          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
             RAWAARA Group Invest with
             <br />
             Digital Tokens
